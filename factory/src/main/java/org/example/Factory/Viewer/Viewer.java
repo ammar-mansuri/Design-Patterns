@@ -1,6 +1,6 @@
-package org.Factory.Viewer;
+package org.example.Factory.Viewer;
 
-import org.Factory.enums.ViewerType;
+import org.example.Factory.enums.ViewerType;
 
 public interface Viewer<T> {
     ViewerType getType();

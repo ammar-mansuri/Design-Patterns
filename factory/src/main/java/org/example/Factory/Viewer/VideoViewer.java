@@ -1,7 +1,7 @@
-package org.Factory.Viewer;
+package org.example.Factory.Viewer;
 
-import org.Factory.enums.ViewerType;
-import org.Factory.models.Video;
+import org.example.Factory.enums.ViewerType;
+import org.example.Factory.models.Video;
 import org.springframework.stereotype.Component;
 
 @Component

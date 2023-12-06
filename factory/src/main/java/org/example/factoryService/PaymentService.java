@@ -1,4 +1,4 @@
-package org.factoryService;
+package org.example.factoryService;
 
 public interface  PaymentService {
 

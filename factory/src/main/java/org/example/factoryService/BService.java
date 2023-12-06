@@ -1,4 +1,4 @@
-package org.factoryService;
+package org.example.factoryService;
 
 public class BService implements PaymentService {
     @Override

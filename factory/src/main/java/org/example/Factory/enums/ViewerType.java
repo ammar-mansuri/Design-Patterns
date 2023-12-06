@@ -1,4 +1,4 @@
-package org.Factory.enums;
+package org.example.Factory.enums;
 
 public enum ViewerType {
 

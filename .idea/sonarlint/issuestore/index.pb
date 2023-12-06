@@ -2,15 +2,7 @@
 S
 #src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 ?
-factory/pom.xml,1/6/161ea8f852c0e4133a8231b1f333e0338be8bf12
-[
-+factory/src/main/java/org/example/Main.java,a/b/ab69c80d7a93f5825578534e67b6c39bcc48118f
-?
 adapter/pom.xml,d/9/d95cc3a3d788c8e17577710202888b5ad37a3f24
-[
-+adapter/src/main/java/org/example/Main.java,4/d/4d84b9e73b0ec0ad1449bba296f5be1e4b874d9b
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 i
 9singleton/src/test/java/org/singleton/SingletonTests.java,7/d/7df1ddf645604aa4e6704d94956ecfb579bd34ec
 m
@@ -25,8 +17,6 @@ d
 4singleton/src/main/java/org/singleton/ECU_Eager.java,d/f/df89f35156930016b2742c645f47fa10d40031f3
 c
 3singleton/src/main/java/org/singleton/ECU_Lazy.java,7/2/724e8b03df228559e62b568765344dafe2966655
-A
-singleton/pom.xml,f/7/f7b34924b725645205a8c36285aa31921f21c80a
 e
 5singleton/src/main/java/org/Factory/models/Video.java,3/9/39475ebfdffbbbf97855782aa94dc76d3e2b8491
 n

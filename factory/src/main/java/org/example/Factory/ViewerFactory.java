@@ -1,7 +1,7 @@
-package org.Factory;
+package org.example.Factory;
 
-import org.Factory.Viewer.Viewer;
-import org.Factory.enums.ViewerType;
+import org.example.Factory.Viewer.Viewer;
+import org.example.Factory.enums.ViewerType;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

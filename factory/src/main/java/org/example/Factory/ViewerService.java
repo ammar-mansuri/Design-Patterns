@@ -1,11 +1,8 @@
-package org.Factory;
+package org.example.Factory;
 
 import jakarta.annotation.PostConstruct;
-import org.Factory.Viewer.Viewer;
-import org.Factory.enums.ViewerType;
-import org.Factory.models.Document;
-import org.Factory.models.Image;
-import org.Factory.models.Video;
+import org.example.Factory.Viewer.Viewer;
+import org.example.Factory.enums.ViewerType;
 import org.springframework.stereotype.Service;
 
 @Service

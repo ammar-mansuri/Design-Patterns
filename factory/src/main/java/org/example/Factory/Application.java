@@ -1,7 +1,5 @@
-package org.Factory;
+package org.example.Factory;
 
-import org.Factory.enums.ViewerType;
-import org.Factory.models.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
